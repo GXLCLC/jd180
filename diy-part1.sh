@@ -17,3 +17,11 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
+# OpenAppFilter 应用流量过滤
+echo 'src-git openappfilter https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
+ # kenzok8插件库（含AdGuardHome）
+echo 'src-git kenzok8 https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+ # LiBwrt IPQ NSS硬件加速驱动包
+echo 'src-git libwrt https://github.com/LiBwrt/LibWrt' >>feeds.conf.default
+
+
