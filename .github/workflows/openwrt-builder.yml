@@ -163,6 +163,3 @@ jobs:
       env:
     # 不再使用默认的 secrets.GITHUB_TOKEN，改用你新建的GH_TOKEN
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
-     permissions:
-       contents: write
-       metadata: read
