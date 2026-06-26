@@ -22,6 +22,6 @@ echo 'src-git openappfilter https://github.com/destan19/OpenAppFilter' >>feeds.c
  # kenzok8插件库（含AdGuardHome）
 echo 'src-git kenzok8 https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
  # LiBwrt IPQ NSS硬件加速驱动包
-echo 'src-git libwrt https://github.com/LiBwrt/LibWrt' >>feeds.conf.default
+#echo 'src-git libwrt https://github.com/LiBwrt/LibWrt' >>feeds.conf.default
 
 
