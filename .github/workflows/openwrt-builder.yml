@@ -1,3 +1,7 @@
+permissions:
+  contents: write
+  metadata: read
+
 #
 # https://github.com/P3TERX/Actions-OpenWrt
 #
